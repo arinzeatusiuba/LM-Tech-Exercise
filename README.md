@@ -5,6 +5,7 @@
 * open your terminal and run `git clone git@github.com:arinzeatusiuba/LM-Tech-Exercise.git`
 * run "npm install"
 * run "npm run lint:all" to run all lint error, "npm run lint:css" for css error check and "npm run lint:html" for html error check
+* Please visit the live site https://arinzeatusiuba.github.io/LM-Tech-Exercise/
 ## Acknowledgement
 Mr Tony Dilibe
 Mrs Ngozi
