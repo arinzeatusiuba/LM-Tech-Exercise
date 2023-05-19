@@ -1,0 +1,19 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .grid-item {
+    text-align: center;
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .description {
+    margin-top: 10px;
+  }
+  
